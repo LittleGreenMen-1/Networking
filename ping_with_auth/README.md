@@ -1,1 +1,1 @@
-Model of authentification for the ping project
+Model of authentification for the [ping](../ping) project
