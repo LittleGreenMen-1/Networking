@@ -7,7 +7,7 @@
 #include <netdb.h>
 #include <time.h>
 
-#define PORT 2100
+#define PORT 2001
 
 void delay(int milliseconds)
 {
